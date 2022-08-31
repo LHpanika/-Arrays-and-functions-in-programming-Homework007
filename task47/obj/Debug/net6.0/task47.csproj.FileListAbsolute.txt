@@ -1,0 +1,15 @@
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework007\-Arrays-and-functions-in-programming-Homework007\task47\bin\Debug\net6.0\task47.exe
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework007\-Arrays-and-functions-in-programming-Homework007\task47\bin\Debug\net6.0\task47.deps.json
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework007\-Arrays-and-functions-in-programming-Homework007\task47\bin\Debug\net6.0\task47.runtimeconfig.json
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework007\-Arrays-and-functions-in-programming-Homework007\task47\bin\Debug\net6.0\task47.dll
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework007\-Arrays-and-functions-in-programming-Homework007\task47\bin\Debug\net6.0\task47.pdb
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework007\-Arrays-and-functions-in-programming-Homework007\task47\obj\Debug\net6.0\task47.csproj.AssemblyReference.cache
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework007\-Arrays-and-functions-in-programming-Homework007\task47\obj\Debug\net6.0\task47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework007\-Arrays-and-functions-in-programming-Homework007\task47\obj\Debug\net6.0\task47.AssemblyInfoInputs.cache
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework007\-Arrays-and-functions-in-programming-Homework007\task47\obj\Debug\net6.0\task47.AssemblyInfo.cs
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework007\-Arrays-and-functions-in-programming-Homework007\task47\obj\Debug\net6.0\task47.csproj.CoreCompileInputs.cache
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework007\-Arrays-and-functions-in-programming-Homework007\task47\obj\Debug\net6.0\task47.dll
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework007\-Arrays-and-functions-in-programming-Homework007\task47\obj\Debug\net6.0\refint\task47.dll
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework007\-Arrays-and-functions-in-programming-Homework007\task47\obj\Debug\net6.0\task47.pdb
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework007\-Arrays-and-functions-in-programming-Homework007\task47\obj\Debug\net6.0\task47.genruntimeconfig.cache
+C:\Users\Кочанов Павел\OneDrive\Рабочий стол\GEEKBRAINS Программирование\Семинары C Sharp с Иваном\Homework007\-Arrays-and-functions-in-programming-Homework007\task47\obj\Debug\net6.0\ref\task47.dll
